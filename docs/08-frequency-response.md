@@ -2,10 +2,6 @@
 
 Every physical node has capacitance.
 
-<div align="center">
-<img src="../assets/figures/bode-pole-zero.svg" alt="Bode pole zero intuition" width="95%" />
-</div>
-
 A first-order pole is
 
 \[
