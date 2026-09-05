@@ -2,10 +2,6 @@
 
 A differential pair converts input difference into current steering.
 
-<div align="center">
-<img src="../assets/figures/differential-pair.svg" alt="MOS differential pair current steering" width="92%" />
-</div>
-
 For a MOS differential pair around zero differential input, the small-signal differential transconductance is approximately related to device \(g_m\).
 
 The key intuition:
