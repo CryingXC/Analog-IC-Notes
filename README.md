@@ -59,6 +59,27 @@ flowchart LR
 
 ---
 
+## Original visual notes
+
+The figures in this repository are original, process-independent vectors stored locally under `assets/figures/` rather than hot-linked third-party images.
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="docs/04-current-mirrors-bias.md"><img src="assets/figures/current-mirror.svg" width="100%" alt="Current mirror visual note" /></a>
+<br/><sub>Current mirror · shared VGS and current scaling</sub>
+</td>
+<td width="50%" align="center">
+<a href="docs/08-frequency-response.md"><img src="assets/figures/bode-pole-zero.svg" width="100%" alt="Bode visual note" /></a>
+<br/><sub>Bode intuition · dominant pole and unity-gain crossing</sub>
+</td>
+</tr>
+</table>
+
+More figures: [Differential pair](docs/06-differential-pair.md) · [Two-stage op-amp](docs/07-opamp-architectures.md) · [Feedback loop](docs/09-feedback-stability.md)
+
+---
+
 ## Core philosophy
 
 **1. Bias point first.**  
