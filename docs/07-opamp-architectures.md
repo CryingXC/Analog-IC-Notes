@@ -2,6 +2,10 @@
 
 ## Two-stage op-amp
 
+<div align="center">
+<img src="../assets/figures/two-stage-opamp.svg" alt="Two-stage op-amp architectural view" width="95%" />
+</div>
+
 Typical structure:
 1. differential input / first gain stage;
 2. second common-source gain stage;
