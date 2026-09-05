@@ -1,9 +1,5 @@
 # 09 · Feedback & Stability
 
-<div align="center">
-<img src="../assets/figures/feedback-loop.svg" alt="Negative feedback loop gain view" width="95%" />
-</div>
-
 Closed-loop transfer:
 
 \[
