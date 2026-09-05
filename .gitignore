@@ -1,0 +1,22 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+
+# Never publish foundry / signoff artifacts here
+*.gds
+*.gdsii
+*.oas
+*.oasis
+*.scs
+*.dspf
+*.spef
+*.spf
+*.tf
+pdk/
+models/
+model/
+rule_decks/
+rules/
+techfile/
+extracted/
