@@ -2,6 +2,10 @@
 
 A current mirror converts a reference current into one or more bias currents.
 
+<div align="center">
+<img src="../assets/figures/current-mirror.svg" alt="NMOS current mirror concept" width="92%" />
+</div>
+
 For matched long-channel MOS devices:
 
 \[
